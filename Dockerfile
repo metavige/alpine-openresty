@@ -3,7 +3,7 @@
 
 FROM alpine:latest
 
-MAINTAINER Evan Wies <evan@neomantra.net>
+MAINTAINER Ricky Chiang <metavige@gmail.com>
 
 # Docker Build Arguments
 ARG RESTY_VERSION="1.9.15.1"
